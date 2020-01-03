@@ -33,7 +33,7 @@ Handling Large Conditional Statements (Table Lookup vs Switch vs If/Else)
 
 > We normally use switch statements to avoid large if-else if statements. However, switch statements are very verbose, hard to maintain and even harder to debug. - [Estefanía García Gallardo](https://medium.com/better-programming/the-art-of-refactoring-5-tips-to-write-better-code-3bc1f6f7689)
 
-###Switch
+### Switch
 
 ```js
 function getPokemon(type) {
