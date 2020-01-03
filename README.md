@@ -98,4 +98,4 @@ console.log(getPokemon('unknown')); // Result: Mew
 ### Possibly no longer relevant (Internet Explorer 7???)
 ![May be old](https://i.imgur.com/KeXxiWF.png)
 
-
+Either way, a table lookup appears to be O(1), whereas the other approaches are not.
